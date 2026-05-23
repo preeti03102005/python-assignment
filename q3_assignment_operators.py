@@ -1,4 +1,5 @@
 x = int(input("Enter number: "))
+3
 
 x += 5
 print("After += :", x)
